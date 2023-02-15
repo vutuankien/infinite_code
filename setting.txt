@@ -1,0 +1,9 @@
+hướng dẫn cài đặt thư viện colorama trên pytthon:
+
+ + mở terminal
+
+ + pip install colorama
+
+ +pip install --update
+
++pip install --update --user
